@@ -2,7 +2,8 @@ import defstr as ds
 
 
 def surroundString(s: str) -> str:
-    return f"SUR({s})ROUND"
+    newS = f"SUR({s})ROUND"
+    return newS
 
 
 def printSurround(s: str) -> None:
