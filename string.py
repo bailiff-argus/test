@@ -1,1 +1,1 @@
-STRING: str = "default"
+STRING: str = "DEFAULT"
