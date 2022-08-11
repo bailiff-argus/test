@@ -4,7 +4,7 @@ def surroundString(s: str) -> str:
 
 def main() -> None:
     string: str = "something"
-    print(f"raw: {string}")
+    print(f"original: {string}")
     print(f"surrounded: {surroundString(string)}")
 
 if __name__ == "__main__":
