@@ -11,7 +11,7 @@ def printSurround(s: str) -> None:
 
 
 def main() -> None:
-    string: str = ds.STRING
+    string: str = ds.STRING + "EOS"
     print(f"original: {string}")
     print(f"surrounded: {surroundString(string)}")
 
